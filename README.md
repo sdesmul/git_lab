@@ -6,3 +6,5 @@ pair program to work through the 3 different scenarios with github
 *Bob
 *Yanni
 *Madison
+##Clients 
+*Mei
